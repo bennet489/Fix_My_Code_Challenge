@@ -1,6 +1,7 @@
-###
+#!/usr/bin/env ruby
 #
 #  Sort integer arguments (ascending)
+#
 #   fixed happened at 'result.insert by removing -1 from source code'
 ###
 
