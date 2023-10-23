@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ FizzBuzz
-    Logic change at 'if(i %3) ==0 and (i%5)  ==0:
+    Logic change at if(i %3) ==0 and (i%5)  ==0:
 """
 import sys
 
